@@ -43,15 +43,15 @@
 <!-- GithubStats -->
 <div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 
 <div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan">
 <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=10&theme=panda"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=10&theme=panda"/>
 </div>
 
 
