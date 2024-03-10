@@ -1,7 +1,13 @@
-Olá pessoal! 👋 <br>
-Meu nome é **Fernanda Pavan** e estou em transição de carreira para Ciência de Dados. <br>
-Atualmente, estou me dedicando a aprimorar minhas habilidades nas **linguagens R, Python e SQL.**<br>
-Além de utilizar ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook e Google Colab.**
+Hello World! 👋 <br>
+
+* Meu nome é **Fernanda Pavan** e estou em Transição de Carreira para Ciência de Dados. <br>
+
+* Atualmente, estou me dedicando a aprimorar minhas Habilidades nas **linguagens R, Python e SQL.**<br>
+
+* Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook e Google Colab.**<br>
+
+🔭 Busco minha primeira oportunidade de emprego e sonho em trabalhar com **Inteligência Artificial (IA) e (Machine Learning).**
+  
 
 **O que você pode encontrar neste perfil:**<br>
 
