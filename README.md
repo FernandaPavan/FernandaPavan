@@ -45,8 +45,8 @@
 <a href="https://github.com/FernandaPavan">
 <div>
 <a href="https://github.com/FernandaPavan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&langs_count=7&theme=panda"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 
