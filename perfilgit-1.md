@@ -4,7 +4,7 @@ Hello World! 👋 <br>
 
 * Atualmente, estou me dedicando a aprimorar minhas Habilidades nas **linguagens R, Python e SQL.**<br>
 
-* Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook e Google Colab.**<br>
+* Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook, Google Colab e Power BI.**<br>
 
 🔭 Busco minha primeira oportunidade de emprego e sonho em trabalhar com **Inteligência Artificial (IA) e (Machine Learning).**
   
