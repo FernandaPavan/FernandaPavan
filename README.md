@@ -38,13 +38,12 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> 
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  </div>
 
 <!-- GithubStats -->
 <div>
 <div style="display: inline-block;">
-<a href="https://github.com/FernandaPavan">
+<a href="https://github.com/FernandaPavan/github-readme-stats">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
@@ -55,6 +54,16 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+
+
+<div style="display: inline-block;">
+<a href="https://github.com/FernandaPavan">
+<div>
+<a href="https://github.com/FernandaPavan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfilitto&layout=compact&langs_count=7&theme=panda"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfilitto&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <!-- Visitantes -->
