@@ -41,17 +41,7 @@
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  </div>
 
-
-
 <!-- GithubStats -->
-<div style="display: inline-block;">
-<a href="https://github.com/FernandaPavan/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda" />
-<a href="https://github.com/FernandaPavan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandaPavan&layout=compact&langs_count=8&card_width=200&theme=panda" />
-</a>
-<br>
-
 <div>
 <div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan">
@@ -65,8 +55,8 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-  
+
+
 <!-- Visitantes -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -74,6 +64,5 @@
 <br>
 </div>
 
- 
 <!-- Banner-rodapé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
