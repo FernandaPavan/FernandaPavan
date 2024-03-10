@@ -2,9 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernanda+Pavan;e+aqui+você+encontra+o+meu+Portfólio!;Saiba+mais+sobre+mim!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernanda+Pavan!)](https://git.io/typing-svg)
 <br>
-
 
 
 <!-- Apresentação -->
@@ -40,8 +39,8 @@
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  </div>
 
-<!-- GithubStats -->
 
+<!-- GithubStats -->
 <div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan">
 <div>
@@ -57,6 +56,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FernandaPavan}/count.svg" /></p> 
 <br>
 </div>
+
 
 <!-- Banner-rodapé -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
