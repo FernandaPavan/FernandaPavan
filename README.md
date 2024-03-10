@@ -48,10 +48,10 @@
 </div>
 
 
-<div align="center">
+<div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>  
-<img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 
