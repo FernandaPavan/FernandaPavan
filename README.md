@@ -41,18 +41,14 @@
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 <!-- GithubStats -->
+<div style="display: inline-block;">
 <a href="https://github.com/FernandaPavan/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda" />
 <a href="https://github.com/FernandaPavan/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandaPavan&layout=compact&langs_count=8&card_width=200&theme=panda" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandaPavan&layout=compact&langs_count=8&card_width=200&theme=panda" />
 </a>
 <br>
 
