@@ -54,10 +54,17 @@
 
 <div>
 <a href="https://github.com/FernandaPavan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&layout=compact&langs_count=7&theme=panda&repo=github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true&repo=convoychat"/>
 </div>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
   
 <!-- Visitantes -->
 <div align="center">
