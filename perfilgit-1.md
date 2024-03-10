@@ -5,11 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernanda+Pavan;e+aqui+você+encontra+o+meu+Portfólio!;Saiba+mais+sobre+mim!)](https://git.io/typing-svg)
 <br>
 
+
+
 <!-- Apresentação -->
 
-   * Atualmente, estou me dedicando a aprimorar minhas Habilidades nas **linguagens R, Python e SQL.**<br>
+   * Atualmente, estou me dedicando a aprimorar minhas Habilidades nas **linguagens R, Python e SQL.** <br>
 
-   * Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook, Google Colab e Power BI.**<br>
+   * Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook, Google Colab e Power BI.** <br>
 
 🔭 Busco minha primeira oportunidade de emprego e sonho em trabalhar com **Inteligência Artificial (IA) e (Machine Learning).**
 
@@ -27,8 +29,19 @@
 ## 🔗 Portfolio: [Prevendo a Eficiência de Extintores de Incêndio.R](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
 <br>
 
-<!-- Icones de Habilidades -->
-## 🔧 Skills: <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> <img align="center" alt="R" height="30" width="40" src="https://github.com/FernandaPavan/FernandaPavan/assets/110939025/fb6ef9ed-536d-4142-8ae4-e7c1b30e0aeb"> <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<!-- Icones de Habilidades -->  
+  <div style="display: inline-block;">
+  <h2 style="margin-right: 10px;">🔧 Skills:</>
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://github.com/FernandaPavan/FernandaPavan/assets/110939025/fb6ef9ed-536d-4142-8ae4-e7c1b30e0aeb"> 
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> 
+  <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ </div>
+
+
 
 
 <!-- GithubStats -->
