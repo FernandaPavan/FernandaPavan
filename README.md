@@ -48,6 +48,9 @@
 <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaPavan&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
 
+
+
+
 <!-- Visitantes -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
