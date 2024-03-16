@@ -38,6 +38,7 @@
   <img align="center" alt="R" height="30" width="40" src="https://github.com/FernandaPavan/FernandaPavan/assets/110939025/fb6ef9ed-536d-4142-8ae4-e7c1b30e0aeb"> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> 
+  <img align="center" alt="Colab" height="30" width="40" src= "https://avatars.githubusercontent.com/u/33467679?s=200&v=4" />
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  </div>
 
