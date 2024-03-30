@@ -26,7 +26,8 @@
 
 <!-- Portfolio -->
 ## 🔗 Portfolio:
-* [Prevendo a Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
+* [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
+* [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
 * [Business Analytics - Vendas](https://github.com/FernandaPavan/Business-Analytics-Vendas)
 * [Marketing Analytics - KPI](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
 <br>
