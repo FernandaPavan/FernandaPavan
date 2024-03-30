@@ -27,8 +27,8 @@
 <!-- Portfolio -->
 ## 🔗 Portfolio:
 * [Prevendo a Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
-* [Análise de Indicadores de Desempenho em Vendas.](https://github.com/FernandaPavan/Business-Analytics-Vendas)
-* [Análise de Indicadores de Desempenho (KPI's) em Rede de Varejo.](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
+* [Business Analytics - Vendas](https://github.com/FernandaPavan/Business-Analytics-Vendas)
+* [Marketing Analytics - KPI](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
 <br>
 
 
