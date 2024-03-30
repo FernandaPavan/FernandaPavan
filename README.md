@@ -28,10 +28,10 @@
 ## 🔗 Portfolio:
 * [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 * [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
-* [Business Analytics - Vendas](https://github.com/FernandaPavan/Business-Analytics-Vendas)
-* [Marketing Analytics - KPI](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
-* [Business-Analytics-Varejo-EUA()
-]
+* [Marketing Analytics - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
+* [Business Analytics - Varejo-Açaí](https://github.com/FernandaPavan/Business-Analytics-Vendas)
+* [Business-Analytics-Varejo-EUA ](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA)
+
 <br>
 
 
