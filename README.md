@@ -30,6 +30,8 @@
 * [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
 * [Business Analytics - Vendas](https://github.com/FernandaPavan/Business-Analytics-Vendas)
 * [Marketing Analytics - KPI](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
+* [Business-Analytics-Varejo-EUA()
+]
 <br>
 
 
