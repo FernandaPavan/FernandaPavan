@@ -2,30 +2,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernanda+Pavan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+sejam+bem-vindos(as)!)](https://git.io/typing-svg) <br>
 <br>
-
+<br>
 
 <!-- Apresentação -->
 
-   * Atualmente, estou me dedicando a aprimorar minhas Habilidades nas **linguagens R, Python e SQL.** <br>
-
-   * Além de utilizar Ferramentas como o **RStudio, Visual Studio Code, Jupyter Notebook, Google Colab e Power BI.** <br>
-
-🔭 Busco minha primeira oportunidade de emprego e sonho em trabalhar com **Inteligência Artificial (IA) e (Machine Learning).**
-
-
+ Olá, meu nome é Fernanda Pavan e sou cientista de dados. Acesse meu portfólio e saiba mais sobre minhas habilidades! <br>
+ <br>
+Nele, você encontrará uma seleção de projetos que demonstram minha experiência em análise de dados e aprendizado de máquina. Atualmente, estou imersa em projetos que exploram técnicas de clusterização, e em breve poderei compartilhar os resultados aqui.
 
 
 <br>
 
 <!-- Descrição -->
-**O que Você pode Encontrar Neste Perfil:** <br>
-
-📊 **Análises Estatísticas:** Adoro explorar dados e descobrir padrões ocultos.<br>
-🤖 **Modelos Preditivos:** Desenvolvo modelos para prever resultados e tomar decisões embasadas.<br>
-🌱 **Aprendizado Contínuo:** Sempre buscando aprender e aplicar novos conhecimentos.<br>
+📊 Análises Estatísticas | 🤖 Machine Learning | 📈 Visualização de Dados | 🔍 Insights Estratégicos | 🛠️ Ferramentas de Ciência de Dados 
 <br>
+<br>
+<br>
+<br>
+
 
 <!-- Portfolio -->
 ## 🔗 Confira meu Portfolio em Ciências de Dados!
