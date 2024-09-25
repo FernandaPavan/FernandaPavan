@@ -24,7 +24,7 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 
 
 <!-- Portfolio -->
-## 🔗 Confira meu Portfolio em Ciências de Dados!
+## 🔗 Confira meu Portfólio em Ciências de Dados!
 
 #### **1. Modelos de Classificação:**
 * [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
