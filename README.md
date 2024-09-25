@@ -16,7 +16,7 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 <br>
 
 <!-- Descrição -->
-📊 Análises Estatísticas | 🤖 Machine Learning | 📈 Visualização de Dados | 🔍 Insights Estratégicos | 🛠️ Ferramentas de Ciência de Dados 
+📊 Análises Estatísticas | 🤖 Machine Learning | 📈 Visualização de Dados | 🔍 Insights Estratégicos | 🛠️ Ferramentas de Dados 
 <br>
 <br>
 <br>
