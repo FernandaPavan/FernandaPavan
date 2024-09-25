@@ -14,6 +14,9 @@
 
 🔭 Busco minha primeira oportunidade de emprego e sonho em trabalhar com **Inteligência Artificial (IA) e (Machine Learning).**
 
+
+
+
 <br>
 
 <!-- Descrição -->
@@ -25,9 +28,15 @@
 <br>
 
 <!-- Portfolio -->
-## 🔗 Portfolio:
+## 🔗 Confira meu Portfolio em Ciências de Dados!
+
+#### **1. Modelos de Classificação:**
 * [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
+
+#### **2. Modelos de Regressão:**
 * [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
+
+#### **3. Análise Exploratória de Dados e Business Intelligence:**
 * [Marketing Analytics - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
 * [Business Analytics - Varejo-Açaí](https://github.com/FernandaPavan/Business-Analytics-Vendas)
 * [Business-Analytics-Varejo-EUA ](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA)
@@ -35,9 +44,26 @@
 <br>
 
 
+
+<!-- Habilidade Tecnica -->
+
+<h2> 🔧 Habilidades Técnicas:</h2>
+
+<ul>
+  <li><b>Linguagens:</b> Python (pandas, numpy, scikit-learn, TensorFlow), SQL, R</li>
+  <li><b>Ferramentas:</b> Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, Power BI</li>
+  <li><b>Modelos:</b> Classificação, Regressão, Clustering, Séries Temporais, Redes Neurais</li>
+  <li><b>Outras:</b> Git, GitHub, Estatística</li>
+</ul>
+
+
+
+
+
+
 <!-- Icones de Habilidades -->  
   <div style="display: inline-block;">
-  <h2 style="margin-right: 10px;">🔧 Skills:</>
+  <h2 style="margin-right: 10px;"> </>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/FernandaPavan/FernandaPavan/assets/110939025/fb6ef9ed-536d-4142-8ae4-e7c1b30e0aeb"> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -46,7 +72,7 @@
   <img align="center" alt="Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
  </div>
-
+<br>
 
 
 <!-- GithubStats -->
