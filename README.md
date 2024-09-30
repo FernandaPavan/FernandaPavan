@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+sejam+bem-vindos(as)!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+sejam+bem-vindas(os)!)](https://git.io/typing-svg) <br>
 <br>
 <br>
 
@@ -46,7 +46,7 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 <h2> 🔧 Habilidades Técnicas:</h2>
 
 <ul>
-  <li><b>Linguagens:</b> Python (pandas, numpy, scikit-learn, TensorFlow), SQL, R</li>
+  <li><b>Linguagens:</b> Python (pandas, numpy, scikit-learn), SQL, R</li>
   <li><b>Ferramentas:</b> Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, Power BI</li>
   <li><b>Modelos:</b> Classificação, Regressão, Clustering, Séries Temporais, Redes Neurais</li>
   <li><b>Outras:</b> Git, GitHub, Estatística</li>
