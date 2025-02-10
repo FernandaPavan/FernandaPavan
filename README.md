@@ -27,9 +27,10 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 ## 🔗 Confira meu Portfólio em Ciências de Dados!
 
 #### **1. Modelos de Classificação:**
-* [Previsão da Eficiência de Extintores de Incêndio.](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
+* [Previsão da Eficiência de Extintores de Incêndio](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
 
 #### **2. Modelos de Regressão:**
+* [Previsão do Consumo de Energia de Carros Elétricos](https://github.com/FernandaPavan/Prevendo_Consumo_Energia_Carros_Eletricos)
 * [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 
 #### **3. Análise Exploratória de Dados e Business Intelligence:**
