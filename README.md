@@ -34,7 +34,7 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 * [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 
 #### **3. Modelos de Clusterização:**
-* [Segmentação de Clientes em E-commerce](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce/blob/main/Projeto_Cluster_Olist.ipynb)
+* [Segmentação de Clientes em E-commerce](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce)
 
 #### **4. Análise Exploratória de Dados e Business Intelligence:**
 * [Marketing Analytics - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
