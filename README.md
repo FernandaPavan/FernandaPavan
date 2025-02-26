@@ -33,7 +33,10 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 * [Previsão do Consumo de Energia de Carros Elétricos](https://github.com/FernandaPavan/Prevendo_Consumo_Energia_Carros_Eletricos)
 * [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 
-#### **3. Análise Exploratória de Dados e Business Intelligence:**
+#### **3. Modelos de Clusterização:**
+<br>
+
+#### **4. Análise Exploratória de Dados e Business Intelligence:**
 * [Marketing Analytics - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
 * [Business Analytics - Varejo-Açaí](https://github.com/FernandaPavan/Business-Analytics-Vendas)
 * [Business-Analytics-Varejo-EUA ](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA)
