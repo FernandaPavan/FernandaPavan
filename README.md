@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+sejam+bem-vindos(as)!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+a+todos!+Sejam+bem-vindos!)](https://git.io/typing-svg) <br>
 <br>
 <br>
 
