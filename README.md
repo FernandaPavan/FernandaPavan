@@ -1,8 +1,8 @@
 <!-- Banner-Head -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a2abb8&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=40&center=true&vCenter=true&width=1000&lines=Olá,+a+todos!+Sejam+bem-vindos!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a2abb8&size=40&center=true&vCenter=true&width=1000&lines=Olá,+a+todos!+Sejam+bem-vindos!)](https://git.io/typing-svg) <br>
 <br>
 <br>
 
@@ -94,4 +94,4 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 
 
 <!-- Banner-rodapé -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a2abb8&height=120&section=footer"/>
