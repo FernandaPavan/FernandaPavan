@@ -10,7 +10,7 @@
 
  Hola, mi nombre es Fernanda Pavan y soy científica de datos. ¡Accede a mi portafolio y conoce más sobre mis habilidades! <br>
  <br>
-En él encontrarás una selección de proyectos que demuestran mi experiencia en análisis de datos y aprendizaje automático. Actualmente estoy inmerso en proyectos que exploran técnicas de clustering, y pronto podré compartir los resultados aquí.
+En él encontrarás una selección de proyectos que demuestran mi experiencia en análisis de datos y Machine Learning. Actualmente estoy inmerso en proyectos que exploran técnicas de clustering, y pronto podré compartir los resultados aquí.
 
 
 <br>
@@ -31,7 +31,7 @@ En él encontrarás una selección de proyectos que demuestran mi experiencia en
 
 #### **2. Modelos de regresión:**
 * [Predicción del consumo energético de los coches eléctricos](https://github.com/FernandaPavan/Prevendo_Consumo_Energia_Carros_Eletricos)
-* [Predecir el valor futuro de las acciones](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
+* [Predicción el valor futuro de las acciones](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 
 #### **3. Modelos de clúster | Agrupamiento:**
 * [Segmentación de clientes en el comercio electrónico](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce)
