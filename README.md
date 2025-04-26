@@ -10,7 +10,7 @@
 
  Hola, mi nombre es Fernanda Pavan y soy científica de datos. ¡Accede a mi portafolio y conoce más sobre mis habilidades! <br>
  <br>
-En él encontrarás una selección de proyectos que demuestran mi experiencia en análisis de datos y Machine Learning. Actualmente estoy inmerso en proyectos que exploran técnicas de clustering, y pronto podré compartir los resultados aquí.
+En él encontrarás una selección de proyectos que demuestran mi experiencia en análisis de datos y machine learning. Actualmente estoy inmerso en proyectos que exploran técnicas de clustering, y pronto podré compartir los resultados aquí.
 
 
 <br>
