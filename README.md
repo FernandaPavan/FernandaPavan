@@ -2,21 +2,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a2abb8&height=120&section=header"/>
 
 <!-- Letras Digitadas Automáticas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a2abb8&size=40&center=true&vCenter=true&width=1000&lines=Olá,+a+todos!+Sejam+bem-vindos!)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a2abb8&size=40&center=true&vCenter=true&width=1000&lines=Hola,+a+todos!+Bienvenidos!)](https://git.io/typing-svg) <br>
 <br>
 <br>
 
 <!-- Apresentação -->
 
- Olá, meu nome é Fernanda Pavan e sou cientista de dados. Acesse meu portfólio e saiba mais sobre minhas habilidades! <br>
+ Hola, mi nombre es Fernanda Pavan y soy científica de datos. ¡Accede a mi portafolio y conoce más sobre mis habilidades! <br>
  <br>
-Nele, você encontrará uma seleção de projetos que demonstram minha experiência em análise de dados e aprendizado de máquina. Atualmente, estou imersa em projetos que exploram técnicas de clusterização, e em breve poderei compartilhar os resultados aqui.
+En él encontrarás una selección de proyectos que demuestran mi experiencia en análisis de datos y aprendizaje automático. Actualmente estoy inmerso en proyectos que exploran técnicas de clustering, y pronto podré compartir los resultados aquí.
 
 
 <br>
 
 <!-- Descrição -->
-📊 Análises Estatísticas | 🤖 Machine Learning | 📈 Visualização de Dados | 🔍 Insights Estratégicos | 🛠️ Ferramentas de Dados 
+📊 Análisis estadístico | 🤖 Machine Learning | 📈 Visualización de datos | 🔍Perspectivas estratégicas | 🛠️ Herramientas de datos
 <br>
 <br>
 <br>
@@ -24,22 +24,22 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 
 
 <!-- Portfolio -->
-## 🔗 Confira meu Portfólio em Ciências de Dados!
+## 🔗¡Mira mi portafolio de ciencia de datos!
 
-#### **1. Modelos de Classificação:**
-* [Previsão da Eficiência de Extintores de Incêndio](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
+#### **1. Modelos de clasificación:**
+* [Predicción de la eficiencia de los extintores](https://github.com/FernandaPavan/Prevendo_Eficiencia_de_Extintores)
 
-#### **2. Modelos de Regressão:**
-* [Previsão do Consumo de Energia de Carros Elétricos](https://github.com/FernandaPavan/Prevendo_Consumo_Energia_Carros_Eletricos)
-* [Previsão do Valor Futuro de Ações](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
+#### **2. Modelos de regresión:**
+* [Predicción del consumo energético de los coches eléctricos](https://github.com/FernandaPavan/Prevendo_Consumo_Energia_Carros_Eletricos)
+* [Predecir el valor futuro de las acciones](https://github.com/FernandaPavan/Previsao-Valor-de-Acao.)
 
-#### **3. Modelos de Clusterização:**
-* [Segmentação de Clientes em E-commerce](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce)
+#### **3. Modelos de clúster | Agrupamiento:**
+* [Segmentación de clientes en el comercio electrónico](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce)
 
-#### **4. Análise Exploratória de Dados e Business Intelligence:**
-* [Marketing Analytics - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
-* [Business Analytics - Varejo-Açaí](https://github.com/FernandaPavan/Business-Analytics-Vendas)
-* [Business-Analytics-Varejo-EUA ](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA)
+#### **4. Análisis exploratorio de datos e inteligencia empresarial:**
+* [Análisis de marketing - KPI's](https://github.com/FernandaPavan/Marketing-Analytics-KPI-)
+* [Análisis de negocios - Varejo-Açaí](https://github.com/FernandaPavan/Business-Analytics-Vendas)
+* [Análisis de negocios-Varejo-EUA ](https://github.com/FernandaPavan/Business-Analytics-Varejo-EUA)
 
 <br>
 
@@ -52,7 +52,7 @@ Nele, você encontrará uma seleção de projetos que demonstram minha experiên
 <ul>
   <li><b>Linguagens:</b> Python (pandas, numpy, scikit-learn), SQL, R</li>
   <li><b>Ferramentas:</b> Jupyter Notebook, Google Colab, RStudio, Visual Studio Code, Power BI</li>
-  <li><b>Modelos:</b> Classificação, Regressão, Clustering, Séries Temporais, Redes Neurais</li>
+  <li><b>Modelos:</b> Clasificación, regresión, agrupamiento, series temporales, redes neuronales</li>
   <li><b>Outras:</b> Git, GitHub, Estatística</li>
 </ul>
 
